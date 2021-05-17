@@ -6,7 +6,7 @@ exports[`<Main /> should render correctly 1`] = `
     React Avançado
   </h1>
   <p>
-    Testando o fixup 01
+    Testando o merge
   </p>
 </main>
 `;
