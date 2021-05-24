@@ -7,7 +7,7 @@ describe('<Main />', () => {
     render(<Main />);
 
     expect(
-      screen.getByRole('heading', { name: /react avançadooooo/i }),
+      screen.getByRole('heading', { name: /react avançado/i }),
     ).toBeInTheDocument();
   });
 
